@@ -22,3 +22,6 @@ Should be pretty easy to customize to fit the color scheme of your current proje
 
 **SetAntiAlias**  
 Change antialiasing quality attribute on the selected nodes.
+
+**BatchCleanMCs**  
+Set the Show Controls Mode of several Master Controllers, with the option to remove their labels as well.  
