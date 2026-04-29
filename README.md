@@ -21,4 +21,7 @@ Change the color of all selected nodes based on a predetermined palette.
 Should be pretty easy to customize to fit the color scheme of your current project even with minimal scripting knowledge.
 
 **SetAntiAlias**  
-Change antialiasing quality attribute on the selected nodes.
+Change antialiasing quality attribute on the selected nodes.  
+
+**RenameSubs**  
+Super simple batch rename subs WITHOUT the sandwich problem.  
