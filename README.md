@@ -25,3 +25,6 @@ Change antialiasing quality attribute on the selected nodes.
 
 **RenameSubs**  
 Super simple batch rename subs WITHOUT the sandwich problem.  
+
+**XFindAndReplace**  
+A find and replace for Drawing names in the Xsheet.  
