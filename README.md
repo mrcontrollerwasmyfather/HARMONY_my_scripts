@@ -28,3 +28,7 @@ Super simple batch rename subs WITHOUT the sandwich problem.
 
 **XFindAndReplace**  
 A find and replace for Drawing names in the Xsheet.  
+
+**SwapNodeType**  
+Batch turn nodes into empty nodes of another type. Mainly useful to quickly create well-named advanced node that don't have a quick creation wizard like READs do or a quick keyboard shortcut like PEGs do.  
+Also has an advanced preset that converts Pegs into Statics with the current position already baked in.  
